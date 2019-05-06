@@ -1,6 +1,6 @@
 backend:
     name: github
-    repo: prashantpalikhe/blogC
+    repo: prashantpalikhe/blog
 
 media_folder: 'static/uploads'
 public_folder: '/uploads'
